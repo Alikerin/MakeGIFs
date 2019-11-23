@@ -1,5 +1,5 @@
 # MakeGIFs
-This repository contains code for making GIF from a directory containing images in a numerical order such as 1.png, 2.png, 3.png etc.
+This repository contains Python code for making GIF from a directory containing images in a numerical order such as 1.png, 2.png, 3.png etc.
 
 To make a GIF simply run main.py with the needed arguments
 
